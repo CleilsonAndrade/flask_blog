@@ -26,7 +26,7 @@ Flask blog é uma aplicação de um blog, com cadastro post, edição e exibiç�
 
 ## Features
 - [x] Responsividade<br>
-- [x] Listar post por data e hora<br>
+- [x] Listar posts por data e hora<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
