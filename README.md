@@ -10,6 +10,7 @@
   * [Features](#features)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
+  * [Cores](#cores)
   * [Fontes](#fontes)
 * [Instalação](#instalação)
 * [Licença](#licença)
